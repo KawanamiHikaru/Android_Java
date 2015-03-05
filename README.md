@@ -1,0 +1,2 @@
+# Android_Java
+ibeaconをbackgroundで取得するアプリケーション
